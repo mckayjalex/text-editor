@@ -35,6 +35,8 @@ A list of technologies used within the project:
 
 [Github Repo](https://github.com/mckayjalex/text-editor)
 
+[Deployed App](https://guarded-ridge-54592.herokuapp.com/)
+
 ## Contact
 
 GitHub: [GitHub](https://github.com/mckayjalex) Email: [alexjosephmckay@gmail.com](alexjosephmckay@gmail.com)

@@ -18,9 +18,9 @@ Even on reload of the page the info will be saved.
 ## Screenshots 
 ---
 *
-[In Browser](assets/Browser.png)
+[In Browser](./assets/Browser.png)
 
-[PWA](assets/App.png)
+[PWA](./assets/App.png)
 
 ## Technologies
 ***

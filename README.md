@@ -17,10 +17,10 @@ Even on reload of the page the info will be saved.
   
 ## Screenshots 
 ---
-*
-[In Browser](./assets/Browser.png)
 
-[PWA](./assets/App.png)
+![In Browser](./assets/Browser.png)
+
+![PWA](./assets/App.png)
 
 ## Technologies
 ***
